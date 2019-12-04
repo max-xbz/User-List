@@ -1,0 +1,17 @@
+.home {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.header_firstname {
+    cursor: pointer;
+}
+.header_lastname {
+    cursor: pointer;
+}
+.header_sex {
+    cursor: pointer;
+}
+.header_age {
+    cursor: pointer;
+}
+
